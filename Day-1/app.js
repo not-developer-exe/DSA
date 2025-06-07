@@ -27,4 +27,6 @@ console.log(x + y); // ⚠️ Output: '52' — because + triggers string concate
 
 // 🧠 Lesson: JS decides coercion based on the operator. + = concat (if string involved), rest = numeric coercion.
 
-// 💬 Type coercion: it’s not a bug, it’s a feature. Know it, use it, don’t get tricked by it. — Stark
+// 💬 Type coercion: it’s not a bug, it’s a feature. Know it, use it, don’t get tricked by it. —  Stark
+
+
