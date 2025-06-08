@@ -29,4 +29,16 @@ console.log(x + y); // ⚠️ Output: '52' — because + triggers string concate
 
 // 💬 Type coercion: it’s not a bug, it’s a feature. Know it, use it, don’t get tricked by it. —  Stark
 
+// Prompt - It’s the doorway where JavaScript pauses and asks the user, “Hey genius, give me some input to work with.” — Stark
 
+let prompt = prompt('Give me some prompt: ');
+
+
+//Type Casting
+
+let input = prompt('Hey genius, give me some input to work with.') // Output will be a string. No matter what you give as input.
+
+let age = Number(prompt('Enter your age: ')); // Output will be a number.
+
+// Type Casting — It’s when you take control and manually convert one data type into another, like saying, 
+// “I don’t care what you were born as, you’re a Number now.” — Stark
