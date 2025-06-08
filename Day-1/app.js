@@ -58,16 +58,25 @@
 
 // Method - 2: Swapping without using an extra variable.
 
-let a = 10;
-let b = 20; 
+// let a = 10;
+// let b = 20; 
 
-console.log(a, b); // Output: 10 20
+// console.log(a, b); // Output: 10 20
 
-a = a + b; // (10 + 20 = 30) a = 30, b = 20
-b = a - b; // (30 - 20 = 10) a = 30, b = 10
-a = a - b; // (30 - 10 = 20) a = 20, b = 10
+// a = a + b; // (10 + 20 = 30) a = 30, b = 20
+// b = a - b; // (30 - 20 = 10) a = 30, b = 10
+// a = a - b; // (30 - 10 = 20) a = 20, b = 10
 
-console.log(a, b); 
+// console.log(a, b); 
 
+
+// Method - 3: Swapping using Destructuring.
+
+// let a = 10;
+// let b = 20;
+
+// [a,b] = [b,a];
+
+// console.log(a, b); 
 
 // Swapping — It’s the art of switching values between two variables like a boss — no duplicates, no confusion, just a clean exchange of identities. — Stark
