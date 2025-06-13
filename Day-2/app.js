@@ -29,5 +29,17 @@
 // Math.pow()
 // Math.pow() accepts two params, first is base and second is exponent. (base^exponent)
 
-console.log(Math.pow(4, 5)) // Output: 1024
-console.log(Math.pow(5, 4)) // Output: 625
+// console.log(Math.pow(4, 5)) // Output: 1024
+// console.log(Math.pow(5, 4)) // Output: 625
+
+// Math.sqrt()
+// Math.sqrt() accepts one param and returns the square root of that number.
+
+// console.log(Math.sqrt(1024)) // Output: 32
+// console.log(Math.sqrt(625)) // Output: 25
+
+// Math.cbrt()
+// Math.cbrt() accepts one param and returns the cube root of that number.
+
+// console.log(Math.cbrt(1000)) // Output: 10
+// console.log(Math.cbrt(125)) // Output: 5
