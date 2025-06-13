@@ -5,5 +5,24 @@
 // Math.round()
 // The Math.round() function returns the value of a number rounded to the nearest integer.
 
-console.log(Math.round(4.7)); // Output: 5
-console.log(Math.round(4.4)); // Output: 4
+// console.log(Math.round(4.7)); // Output: 5
+// console.log(Math.round(4.4)); // Output: 4
+
+// Math.ceil()
+// The Math.ceil() function returns the smallest integer greater than or equal to a given number.
+
+// console.log(Math.ceil(4.2)); // Output: 5
+// console.log(Math.ceil(4.8)); // Output: 5
+
+// Math.floor()
+// The Math.floor() function returns the largest integer less than or equal to a given number.
+// 
+// console.log(Math.floor(4.2)); // Output: 4
+// console.log(Math.floor(4.8)); // Output: 4
+
+// Math.trunc()
+// The Math.trunc() function returns the integer part of a number by removing any fractional digits.
+
+// console.log(Math.trunc(4.2)); // Output: 4
+// console.log(Math.trunc(5.8)); // Output: 5
+
