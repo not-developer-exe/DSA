@@ -13,9 +13,15 @@
 
 // Perimeter:
 
-let len = 100;
-let bre = 150;
+// let len = 100;
+// let bre = 150;
 
-let peri = len + bre;
+// let peri = len + bre;
 
-console.log(`Perimeter of rectangle is ${peri}`);
+// console.log(`Perimeter of rectangle is ${peri}`);
+
+// Generate OTP
+
+// let otp = Math.floor(Math.random() * 10000) + 1000;
+
+// console.log(`OTP is ${otp}`);
