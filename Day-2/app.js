@@ -43,3 +43,10 @@
 
 // console.log(Math.cbrt(1000)) // Output: 10
 // console.log(Math.cbrt(125)) // Output: 5
+
+// Math.abs()
+// Math.abs() accepts one param and returns the absolute value of that number. Basically it returns the positive value of a number.
+
+// console.log(Math.abs(-4)) // Output: 4
+// console.log(Math.abs(4)) // Output: 4
+
