@@ -50,3 +50,26 @@
 // console.log(Math.abs(-4)) // Output: 4
 // console.log(Math.abs(4)) // Output: 4
 
+// Math.max()
+// Math.max() accepts multiple params and returns the maximum value among them.
+
+// console.log(Math.max(1, 2, 3, 4, 5)) // Output: 5
+// console.log(Math.max(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)) // Output: 10
+
+// Math.min()
+// Math.min() accepts multiple params and returns the minimum value among them.
+
+// console.log(Math.min(1, 2, 3, 4, 5)) // Output: 1
+// console.log(Math.min(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)) // Output: 1
+
+// Math.random()
+// Math.random() returns a random number between 0 (inclusive) and 1 (exclusive).
+
+// Variation of Math.random()
+
+// console.log(Math.random() * 10) // Output: 0 to 9.999999999999999
+// console.log(Math.random() * 10 + 1) // Output: 1 to 10.999999999999999
+
+// GENERATE OTP using Math.random()
+
+// console.log(Math.floor(Math.random()*10000)+1000) // Output: 1000 to 9999
